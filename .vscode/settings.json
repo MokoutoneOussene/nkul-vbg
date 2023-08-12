@@ -1,0 +1,10 @@
+{
+    "github.copilot.inlineSuggest.enable": true,
+    "editor.defaultFormatter": "mikoz.composite-formatter",
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
+}
